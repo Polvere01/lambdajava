@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.3
+Built-By: polvere
+Build-Jdk: 11.0.22
+Main-Class: com.example.LambdaFunctionHandler
+
